@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/myapi.iml" filepath="$PROJECT_DIR$/.idea/myapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/petCalendar.iml" filepath="$PROJECT_DIR$/.idea/petCalendar.iml" />
     </modules>
   </component>
 </project>
